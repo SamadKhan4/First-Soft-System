@@ -60,11 +60,12 @@ const Footer = () => {
         <div className="flex flex-col space-y-2">
           <h3 className="font-semibold mb-2">Contact</h3>
           <a href="tel:+918702102450" className="text-gray-400 hover:text-white">+91 8702102450</a>
+          <a href="tel:+14796969788" className="text-gray-400 hover:text-white">+1 479 696 9788</a>
           <p className="text-gray-400 text-sm">
             H. No. 1–36/1/12/19, Vemana Colony, Chandanagar, Hyderabad, Tirumalagiri, Telangana, India, 500050 <br />
             First Soft Systems 1116 S Walton Blvd Suite #163, Bentonville, AR 72712
           </p>
-          <a href="mailto:hr-info@Fss.com" className="text-gray-400 hover:text-white">hr-info@Fss.com</a>
+          <a href="mailto:hr-manager@firstsoftsystems.com" className="text-gray-400 hover:text-white">hr-manager@firstsoftsystems.com</a>
         </div>
       </div>
 

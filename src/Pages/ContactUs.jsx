@@ -25,13 +25,13 @@ const ContactUs = () => {
             {/* Phone */}
             <div className="flex items-center space-x-4 bg-gray-100 p-4 rounded">
               <span className="font-semibold">Contact:</span>
-              <span>+91 8702102450</span>
+              <span>+91 8702102450 | +1 479 696 9788</span>
             </div>
 
             {/* Email */}
             <div className="flex items-center space-x-4 bg-gray-100 p-4 rounded">
               <span className="font-semibold">Email Address:</span>
-              <span>akshak@procorpsol.com</span>
+              <span>hr-manager@firstsoftsystems.com</span>
             </div>
 
             {/* Office Address */}

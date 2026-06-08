@@ -133,8 +133,8 @@ const Privacy = () => {
               <FaEnvelope className="mt-1 text-blue-800" />
               <div>
                 <p className="uppercase text-xs text-slate-500">Email</p>
-                <a href="mailto:info@csrmtechcorp.com" className="hover:text-blue-800">
-                  info@csrmtechcorp.com
+                <a href="mailto:hr-manager@firstsoftsystems.com" className="hover:text-blue-800">
+                  hr-manager@firstsoftsystems.com
                 </a>
               </div>
             </div>
@@ -144,6 +144,10 @@ const Privacy = () => {
                 <p className="uppercase text-xs text-slate-500">Phone</p>
                 <a href="tel:+918702102450" className="hover:text-blue-800">
                   +91 8702102450
+                </a>
+                <br />
+                <a href="tel:+14796969788" className="hover:text-blue-800">
+                  +1 479 696 9788
                 </a>
               </div>
             </div>

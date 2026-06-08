@@ -23,7 +23,10 @@ const TopNavbar = () => {
 
       {/* Right: Contact Info */}
       <div className="flex flex-col sm:flex-row sm:space-x-6 items-center py-2 px-4 bg-[#0F4C81] text-white flex-1 justify-end">
-        
+        <a href="tel:+14796969788" className="flex items-center gap-2 hover:text-gray-200">
+          <HiOutlinePhone className="w-4 h-4" />
+          <span>+1 479 696 9788</span>
+        </a>
       </div>
 
     </div>
